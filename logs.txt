@@ -1,0 +1,35 @@
+commit fe25fbbc756105d92091da1557bacd4778a6335f
+Author: jankulovska <134975577+jankulovska@users.noreply.github.com>
+Date:   Wed Mar 27 21:45:15 2024 +0100
+
+    Call method makeBigStringFrom in main class.
+
+commit 14290d9a57ed83c2f4abefc8332dd5e1d333a96e
+Author: jankulovska <134975577+jankulovska@users.noreply.github.com>
+Date:   Wed Mar 27 21:37:53 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 45ef05078d5f6123ed8081a4b1150ada12eec026
+Author: jankulovska <134975577+jankulovska@users.noreply.github.com>
+Date:   Wed Mar 27 21:42:00 2024 +0100
+
+    Call method filterOddLengthStrings in main class.
+
+commit 11f162ab8273b554592a2a638444283d5dd0f0b0
+Author: jankulovska <134975577+jankulovska@users.noreply.github.com>
+Date:   Wed Mar 27 21:33:30 2024 +0100
+
+     Fix wrong condition in filterOddLengthStrings.
+
+commit c8df79d5a45dd7ba6ac08d1bb6b0aaf964128892
+Author: jankulovska <134975577+jankulovska@users.noreply.github.com>
+Date:   Wed Mar 27 21:21:32 2024 +0100
+
+    Add starter code
+
+commit 0d0fd5a9736fdc236c22187274c23ca80ea06b24
+Author: jankulovska <134975577+jankulovska@users.noreply.github.com>
+Date:   Wed Mar 27 21:16:38 2024 +0100
+
+    Initial commit
